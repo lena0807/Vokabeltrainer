@@ -15,6 +15,7 @@ public class Test {
 		System.out.println(pb.getBook());
 		System.out.println("--------------------");
 		
+		// hallo
 		System.out.println("Gelöschte Telefonnummern von Hans August: ");
 		pb.deleteEntriesOfAPerson​("Hans August");
 		
